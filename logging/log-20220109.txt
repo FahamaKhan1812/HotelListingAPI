@@ -1,0 +1,18 @@
+2022-01-09 19:00:38.567 +05:00 [INF] App is started
+2022-01-09 19:00:41.271 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-09 19:00:41.276 +05:00 [INF] Hosting environment: Development
+2022-01-09 19:00:41.279 +05:00 [INF] Content root path: C:\Users\Fahama Khan\Desktop\WEBAPI\HotelListingAPI\HotelListing
+2022-01-09 19:00:41.341 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/swagger/index.html - -
+2022-01-09 19:00:42.077 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/_framework/aspnetcore-browser-refresh.js - -
+2022-01-09 19:00:42.082 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/swagger/index.html - - - 200 - text/html;charset=utf-8 748.6327ms
+2022-01-09 19:00:42.124 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 45.9443ms
+2022-01-09 19:00:42.439 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/swagger/v1/swagger.json - -
+2022-01-09 19:00:42.724 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 285.6348ms
+2022-01-09 20:46:19.103 +05:00 [INF] App is started
+2022-01-09 20:46:19.945 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-09 20:46:19.948 +05:00 [INF] Hosting environment: Development
+2022-01-09 20:46:19.949 +05:00 [INF] Content root path: C:\Users\Fahama Khan\Desktop\WEBAPI\HotelListingAPI\HotelListing
+2022-01-09 20:46:19.974 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/Model/ - -
+2022-01-09 20:46:20.091 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/Model/ - - - 404 - - 120.3433ms
+2022-01-09 20:46:23.282 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/Model/ - -
+2022-01-09 20:46:23.285 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/Model/ - - - 404 - - 3.7883ms
