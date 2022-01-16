@@ -1,0 +1,28 @@
+2022-01-10 21:51:06.813 +05:00 [INF] App is started
+2022-01-10 21:51:09.665 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-10 21:51:09.690 +05:00 [INF] Hosting environment: Development
+2022-01-10 21:51:09.692 +05:00 [INF] Content root path: C:\Users\Fahama Khan\Desktop\WEBAPI\HotelListingAPI\HotelListing
+2022-01-10 21:51:09.740 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/swagger/index.html - -
+2022-01-10 21:51:11.650 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/swagger/index.html - - - 200 - text/html;charset=utf-8 1916.6908ms
+2022-01-10 21:51:11.739 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/_framework/aspnetcore-browser-refresh.js - -
+2022-01-10 21:51:11.754 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/_framework/aspnetcore-browser-refresh.js - - - 200 11945 application/javascript;+charset=utf-8 11.0928ms
+2022-01-10 21:51:12.289 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/swagger/v1/swagger.json - -
+2022-01-10 21:51:12.564 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 274.5333ms
+2022-01-10 21:51:22.125 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/WeatherForecast - -
+2022-01-10 21:51:22.339 +05:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2022-01-10 21:51:22.432 +05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2022-01-10 21:51:22.448 +05:00 [INF] Accessed Weather Forecast
+2022-01-10 21:51:22.503 +05:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2022-01-10 21:51:22.722 +05:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 251.4347ms
+2022-01-10 21:51:22.781 +05:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2022-01-10 21:51:22.921 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/WeatherForecast - - - 200 - application/json;+charset=utf-8 797.6501ms
+2022-01-10 21:51:31.732 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/WeatherForecast - -
+2022-01-10 21:51:31.736 +05:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2022-01-10 21:51:31.737 +05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2022-01-10 21:51:31.737 +05:00 [INF] Accessed Weather Forecast
+2022-01-10 21:51:31.739 +05:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2022-01-10 21:51:31.745 +05:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 7.9505ms
+2022-01-10 21:51:31.745 +05:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2022-01-10 21:51:31.747 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/WeatherForecast - - - 200 - application/json;+charset=utf-8 14.3638ms
+2022-01-10 21:51:32.026 +05:00 [INF] Request starting HTTP/2 GET https://localhost:44352/favicon.ico - -
+2022-01-10 21:51:32.029 +05:00 [INF] Request finished HTTP/2 GET https://localhost:44352/favicon.ico - - - 404 - - 6.6674ms
